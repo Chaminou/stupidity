@@ -1,0 +1,8 @@
+tqdm
+pickle5
+random
+numpy
+tensorflow
+matplotlib
+scipy
+sys
